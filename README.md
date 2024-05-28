@@ -21,3 +21,6 @@ _굵게 표시하는 방법_
 > ">"를 사용하면 인용이 가능함.
 >> 인용 안에 인용문
 >>> 인용 안에 인용문
+
+
+![말하는 사과] https://img.freepik.com/premium-photo/two-apples-with-eyes-that-say-s-face_662214-133734.jpg?w=1480
