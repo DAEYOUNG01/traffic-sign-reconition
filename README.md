@@ -25,10 +25,10 @@ _굵게 표시하는 방법_
 
 ![말하는 사과](two-apples-with-eyes-that-say-s-face_662214-133734.jpg)
 
-지금은 하는 방법만 나열
+**지금은 하는 방법만 나열**
 
 
-6/11까지 프로젝트 업로드 예정 (Yolov8를 활용한 traffic_sign_recognition)
+**6/11까지 프로젝트 업로드 예정 (Yolov8를 활용한 traffic_sign_recognition)**
 
 
-도로 표지판 객체 탐지하기 
+**도로 표지판 객체 탐지하기**
