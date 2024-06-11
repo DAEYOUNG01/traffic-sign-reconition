@@ -53,6 +53,9 @@
 
 
 **1. 동적인 영상의 교통 표지판 객체 탐지**
+![image](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/59f9eef4-2a4e-4dea-bd4d-fc9a09f04f73)
+
+
 
 
 **2. 프로젝트를 진행하면서 발견한 다양한 문제점**
