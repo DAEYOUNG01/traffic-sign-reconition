@@ -102,7 +102,10 @@ https://universe.roboflow.com/search?q=korea%2520wheelbarrow%2520sign&p=3
 3. 위 출처에서 부족한 데이터 셋을 구하기 + 데이터 셋의 인스턴스 평균 맞추기
 4. 3번을 수행한 후 각 클래스의 라벨을 재수정
 5. 다양한 데이터 셋을 모아 하나의 새로운 데이터 셋 구축
-   
+
+
+![2024-06-11 21 17 44 (1)](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/e910aaaa-b754-4272-8d1c-360e565520c2)
+
 ---
 
 
