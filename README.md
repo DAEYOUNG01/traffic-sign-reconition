@@ -1,4 +1,5 @@
-![image](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/1aae0a10-429a-44b1-9fcf-3448f04760cd)# Traffic_sign_recognition (korea traffic_sign)
+#YOLOv8를 사용한 Traffic_sign_recognition(교통 표지판 탐지 및 인식)
+
 
 **CONTENST**
 
