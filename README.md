@@ -53,7 +53,10 @@
 
 
 **1. 영상의 교통 표지판 객체 탐지**
+
+
 ![image](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/ce4a28f4-b019-4389-b39e-5dbc82d686d5)
+
 
 
 **2. 프로젝트를 진행하면서 발견한 다양한 문제점**
