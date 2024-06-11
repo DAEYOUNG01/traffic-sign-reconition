@@ -55,8 +55,8 @@
 **1. 영상의 교통 표지판 객체 탐지**
 
 
-![image](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/ce4a28f4-b019-4389-b39e-5dbc82d686d5)
-![image](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/d95797b6-ef16-4062-8ecc-06b6b1b317ed)
+![2024-06-11 21 03 04 (1)](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/e58f4162-5c3c-4cfb-b5b9-5fb2bf1fb957)
+![2024-06-11 21 04 52 (1)](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/f1a5681e-5af1-4739-9c6d-b02ea26b4505)
 
 
 
