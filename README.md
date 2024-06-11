@@ -79,9 +79,24 @@
 
 https://universe.roboflow.com/project-x9thl/trafficsign2-dtlim
 
-https://universe.roboflow.com/search?q=korea%20traffic%20sign%20recognition 
+다른 데이터 셋에서 각 클래스 별 데이터 추출하기 
 
-1. 데이터 셋의 가장 큰 문제인 data.yaml의 클래스 수정
+
+https://universe.roboflow.com/pbl2-nsmxa/pbl2-jtrh3
+
+
+https://universe.roboflow.com/search?q=right%2520sign%2520left%2520sign&p=1
+
+
+https://universe.roboflow.com/search?q=korea%2520wheelbarrow%2520sign&p=1
+
+
+https://universe.roboflow.com/search?q=korea%2520wheelbarrow%2520sign&p=3
+
+
+등 다양한 로보플로우 무료로 제공하는 다양한 데이터 셋을 사용함
+
+1. 데이터 셋의 가장 큰 문제인 data.yaml의 클래스 수정(추가, 삭제, 변경)
 2. 로보플로우에서 다른 한국 교통 표지판의 다양한 데이터 셋에서 각 객체에 필요한 클래스를 추출 
 3. 위 출처에서 부족한 데이터 셋을 구하기 + 데이터 셋의 인스턴스 평균 맞추기
 4. 3번을 수행한 후 각 클래스의 라벨을 재수정
