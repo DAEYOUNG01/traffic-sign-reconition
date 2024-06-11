@@ -70,13 +70,22 @@
 
 
 ![image](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/1bc056c2-c5ee-4904-941f-d7e3927bab6a)
-![2024-06-11 21 17 44 (1)](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/1b22b29c-a06f-4ca5-af0c-f0ff1ffd30e3)
 
 
 
 
 
 **3. 발견한 문제점에 대한 해결 방법**
+
+![2024-06-11 21 17 44 (1)](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/1b22b29c-a06f-4ca5-af0c-f0ff1ffd30e3) 
+
+https://universe.roboflow.com/search?q=korea%20traffic%20sign%20recognition 
+
+1. 데이터 셋의 가장 큰 문제인 data.yaml의 클래스 수정
+2. 로보플로우에서 다른 한국 교통 표지판의 다양한 데이터 셋에서 각 객체에 필요한 클래스를 추출 
+3. 위 출처에서 부족한 데이터 셋을 구하기 + 데이터 셋의 인스턴스 평균 맞추기
+4. 3번을 수행한 후 각 클래스의 라벨을 재수정
+5. 다양한 데이터 셋을 모아 하나의 새로운 데이터 셋 구축
 
 
 ## **필요한 라이브러리 또는 프로젝트 한계점 설명**
