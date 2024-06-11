@@ -49,16 +49,29 @@
 ![image](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/0642fd32-78f5-4941-963b-b24a9bdd5718)
 
 ---
-## 프로젝트 개요 
+## **프로젝트 개요**
 
 
-**1. 동적인 영상의 교통 표지판 객체 탐지**
-![image](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/59f9eef4-2a4e-4dea-bd4d-fc9a09f04f73)
-
-
+**1. 영상의 교통 표지판 객체 탐지**
+![image](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/ce4a28f4-b019-4389-b39e-5dbc82d686d5)
 
 
 **2. 프로젝트를 진행하면서 발견한 다양한 문제점**
 
 
 **3. 발견한 문제점에 대한 해결 방법**
+
+
+## **필요한 라이브러리 또는 프로젝트 한계점 설명**
+
+
+## **추후 개선 사항**
+
+
+##  **데이터 세트**
+
+
+## **모델 설명**
+
+
+##  **실험 결과**
