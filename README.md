@@ -58,7 +58,7 @@
 ![2024-06-11 21 03 04 (1)](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/e58f4162-5c3c-4cfb-b5b9-5fb2bf1fb957)
 ![2024-06-11 21 04 52 (1)](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/f1a5681e-5af1-4739-9c6d-b02ea26b4505)
 
-
+---
 
 
 **2. 프로젝트를 진행하면서 발견한 다양한 문제점**
