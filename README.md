@@ -64,6 +64,9 @@
 **2. 프로젝트를 진행하면서 발견한 다양한 문제점**
 
 
+![image](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/1bc056c2-c5ee-4904-941f-d7e3927bab6a)
+
+
 **3. 발견한 문제점에 대한 해결 방법**
 
 
