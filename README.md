@@ -47,7 +47,6 @@
 
 이 기술의 중요성을 분석하면서 교통 표지판 분류 프로젝트를 시도한다.
 ![image](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/0642fd32-78f5-4941-963b-b24a9bdd5718)
+
 ---
-
-
 ## 프로젝트 개요 :
