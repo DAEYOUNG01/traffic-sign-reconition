@@ -71,7 +71,7 @@
 
 ![image](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/1bc056c2-c5ee-4904-941f-d7e3927bab6a)
 
-
+---
 
 
 
@@ -102,6 +102,8 @@ https://universe.roboflow.com/search?q=korea%2520wheelbarrow%2520sign&p=3
 3. 위 출처에서 부족한 데이터 셋을 구하기 + 데이터 셋의 인스턴스 평균 맞추기
 4. 3번을 수행한 후 각 클래스의 라벨을 재수정
 5. 다양한 데이터 셋을 모아 하나의 새로운 데이터 셋 구축
+   
+---
 
 
 ## **사용한 라이브러리**
@@ -112,6 +114,9 @@ https://universe.roboflow.com/search?q=korea%2520wheelbarrow%2520sign&p=3
 * tensorboard
 * numpy
 * matplotlib
+
+
+---
 
 ## **프로젝트 한계점 설명 및 추후 개선 사항**
 
@@ -125,12 +130,14 @@ https://universe.roboflow.com/search?q=korea%2520wheelbarrow%2520sign&p=3
 4. 실제 환경에서 사용하기에는 많이 부족함(자율주행을 위한 데이터는 다양한 센서가 필요)
 5. 약천후 혹은 매우 밝기가 심하거나 어두운 상황에서는 데이터를 이용하지 못함
 
-   
+---
+
 **추후 개선 사항**
 1. 직접 더 많은 데이터를 만들 수 있는 상황이라면 더 많은 데이터 추가 및 데이터 증강
 2. 데이터 추가할 시 -> 영상의 크기, 약천후 데이터, 어두운 환경에서의 데이터 구하기
 3. 동적인 결과를 사용함으로써 결과를 통해 운전자(사용자)에게 정보 전달
 
+---
 
 ##  **데이터 세트**
 
@@ -152,6 +159,8 @@ https://universe.roboflow.com/project-x9thl/trafficsign2-dtlim
 
 https://universe.roboflow.com/search?q=korea%20traffic%20sign%20recognition
 
+---
+
 ## **모델 설명**
 
 
@@ -166,6 +175,16 @@ YOLOv8 는 딥 러닝과 컴퓨터 비전의 최첨단 발전을 기반으로 �
 
 Classify, Detect, Segment, Track, Pose 등 물체 객체 탐지 및 인식에 매우 유용한 모델임
 
+---
+
+**Yolov8을 선택한 이유**
+
+1. Yolov8은 객체 탐지 모델에서 대표적인 모델로 자리잡으면 많은 회사에서 사용하고 있음
+2. 인공지능에 대해서 많은 지식이 없던 저조차 공부를 하면서 쉽게 사용할 수 있는 구조로 만들어져 있음
+3. 적은 수의 데이터로 좋은 학습 결과를 내보낸다는 큰 장점이 있음
+4. 결과 값을 바로 한 눈에 볼 수 있는 구조이며 다양한 파라미터가 존재하여 조정만 하면 됨
+
+---
 
 ##  **실험 결과**
 
