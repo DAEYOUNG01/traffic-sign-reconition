@@ -193,5 +193,18 @@ Classify, Detect, Segment, Track, Pose 등 물체 객체 탐지 및 인식에 �
 
 ##  **실험 결과**
 
+![2024-06-11 22 54 58](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/569e2462-d528-4062-98fa-8e2a0bb7f140)
+
+
+![2024-06-11 22 54 28](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/ed24b4af-f63b-4e6c-a7a3-10e2a8192d5e)
+
+
+![2024-06-11 22 55 11](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/bfd300dd-04b2-43c7-a799-2d6183b34d0f)
+
+
+![2024-06-11 22 55 19](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/0520df5a-73fb-42e2-a8ed-0756cec522e2)
+
+
+![2024-06-11 22 55 37](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/e79e465d-2acc-4bb2-a08b-899dd0abf8b2)
 
 
