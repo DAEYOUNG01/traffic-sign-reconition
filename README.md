@@ -54,6 +54,8 @@
 
 **1. 영상의 교통 표지판 객체 탐지**
 
+전반적으로 진행한 프로젝트의 모습 
+
 
 ![2024-06-11 21 03 04 (1)](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/e58f4162-5c3c-4cfb-b5b9-5fb2bf1fb957)
 ![2024-06-11 21 04 52 (1)](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/f1a5681e-5af1-4739-9c6d-b02ea26b4505)
@@ -190,5 +192,6 @@ Classify, Detect, Segment, Track, Pose 등 물체 객체 탐지 및 인식에 �
 ---
 
 ##  **실험 결과**
+
 
 
