@@ -104,16 +104,69 @@ https://universe.roboflow.com/search?q=korea%2520wheelbarrow%2520sign&p=3
 5. 다양한 데이터 셋을 모아 하나의 새로운 데이터 셋 구축
 
 
-## **필요한 라이브러리 또는 프로젝트 한계점 설명**
+## **사용한 라이브러리**
+
+**사용한 라이브러리**
+* Pytorch
+* Pandas
+* tensorboard
+* numpy
+* matplotlib
+
+## **프로젝트 한계점 설명 및 추후 개선 사항**
 
 
-## **추후 개선 사항**
+**프로젝트를 진행하면서 느낀 한계점**
+
+
+1. 데이터 셋을 원활하고 정교하게 구하기가 매우 어려움
+2. 데이터의 부족으로 학습 다양한 구조에서 시키기 어려움을 겪음
+3. GPU 환경에서 한계점이 있음 (무한한 GPU를 사용하지 못하는 구조)
+4. 실제 환경에서 사용하기에는 많이 부족함(자율주행을 위한 데이터는 다양한 센서가 필요)
+5. 약천후 혹은 매우 밝기가 심하거나 어두운 상황에서는 데이터를 이용하지 못함
+
+   
+**추후 개선 사항**
+1. 직접 더 많은 데이터를 만들 수 있는 상황이라면 더 많은 데이터 추가 및 데이터 증강
+2. 데이터 추가할 시 -> 영상의 크기, 약천후 데이터, 어두운 환경에서의 데이터 구하기
+3. 동적인 결과를 사용함으로써 결과를 통해 운전자(사용자)에게 정보 전달
 
 
 ##  **데이터 세트**
 
 
+https://universe.roboflow.com/pbl2-nsmxa/pbl2-jtrh3
+
+
+https://universe.roboflow.com/search?q=right%2520sign%2520left%2520sign&p=1
+
+
+https://universe.roboflow.com/search?q=korea%2520wheelbarrow%2520sign&p=1
+
+
+https://universe.roboflow.com/search?q=korea%2520wheelbarrow%2520sign&p=3
+
+
+https://universe.roboflow.com/project-x9thl/trafficsign2-dtlim
+
+
+https://universe.roboflow.com/search?q=korea%20traffic%20sign%20recognition
+
 ## **모델 설명**
 
 
+https://docs.ultralytics.com/ko
+
+
+Ultralytics Yolov8 실시간 물체 감지 및 이미지 분할 모델의 최신 버전
+
+YOLOv8 는 딥 러닝과 컴퓨터 비전의 최첨단 발전을 기반으로 구축되어 속도와 정확성 측면에서 비교할 수 없는 성능을 제공
+
+소화된 디자인으로 다양한 애플리케이션에 적합하며, 엣지 디바이스에서 클라우드 API에 이르기까지 다양한 하드웨어 플랫폼에 쉽게 적용 가능
+
+Classify, Detect, Segment, Track, Pose 등 물체 객체 탐지 및 인식에 매우 유용한 모델임
+
+
 ##  **실험 결과**
+
+
