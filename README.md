@@ -77,7 +77,7 @@
 
 **3. 발견한 문제점에 대한 해결 방법**
 
-[![2024-06-11 21 17 44 (1)](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/1b22b29c-a06f-4ca5-af0c-f0ff1ffd30e3)](https://universe.roboflow.com/project-x9thl/trafficsign2-dtlim) 
+https://universe.roboflow.com/project-x9thl/trafficsign2-dtlim
 
 https://universe.roboflow.com/search?q=korea%20traffic%20sign%20recognition 
 
