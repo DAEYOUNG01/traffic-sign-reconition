@@ -68,7 +68,8 @@
 * 데이터 셋이 그나마 분할이 잘 되어 있다고 판단된 데이터 셋을 구했지만 이조차 Yolo에서 실행 파일로 사용되는 data.yaml 파일에 클래스 오류가 많았음
 
 ![image](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/1bc056c2-c5ee-4904-941f-d7e3927bab6a)
-![image](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/00cab5a7-ffab-4722-ad21-4ed745b343ab)
+![2024-06-11 21 17 44 (1)](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/1b22b29c-a06f-4ca5-af0c-f0ff1ffd30e3)
+
 
 
 
