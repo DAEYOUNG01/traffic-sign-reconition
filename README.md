@@ -1,4 +1,4 @@
-#YOLOv8를 사용한 Traffic_sign_recognition(교통 표지판 탐지 및 인식)
+# YOLOv8를 사용한 Traffic_sign_recognition(교통 표지판 탐지 및 인식)
 ---
 
 
