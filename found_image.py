@@ -1,3 +1,5 @@
+# 이미지 파일을 찾는 파이썬 입니다.
+
 import os
 
 def find_image_for_text_file(text_file_path, image_directory):
@@ -14,7 +16,7 @@ def find_image_for_text_file(text_file_path, image_directory):
     
     return None
 
-# 사용 예시
+
 text_file_path = r'C:\Users\USER\Desktop\trafficsign2.v4i.yolov8\test\labels\-2023-07-31-11-53-57_png.rf.9f41ed6c62497738050ad3a72a026980.txt'
 image_directory = r'C:\Users\USER\Desktop\trafficsign2.v4i.yolov8\test\images'
 
