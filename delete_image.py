@@ -1,9 +1,11 @@
+# 타겟 클래스에 대한 이미지 및 라벨 삭제 파이썬 입니다.
+
 import os
 
 def find_images_to_keep(input_directory, image_directory, target_class):
     files_to_keep = set()
 
-    # 1. 6번 클래스가 포함된 텍스트 파일 찾기
+    # 6번 클래스가 포함된 텍스트 파일 찾기
     for filename in os.listdir(input_directory):
         if filename.endswith(".txt"):  # 텍스트 파일만 처리
             file_path = os.path.join(input_directory, filename)
@@ -28,7 +30,7 @@ def find_images_to_keep(input_directory, image_directory, target_class):
                     os.remove(image_file_path)
                     print(f"삭제된 이미지 파일: {image_file_path}")
 
-# 사용 예시
+
 input_directory = r'C:\Users\USER\Desktop\PBL2.v5i.yolov8 (1)\valid\labels'
 image_directory = r'C:\Users\USER\Desktop\PBL2.v5i.yolov8 (1)\valid\images'
 target_class = 6
