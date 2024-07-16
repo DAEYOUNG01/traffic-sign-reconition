@@ -1,3 +1,5 @@
+# 하나의 클래스 개수를 세는 파이썬 입니다.
+
 import os
 
 def count_class_in_txt_files(directory, target_class):
