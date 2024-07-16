@@ -1,3 +1,5 @@
+# 하나의 클래스를 지우는 파이썬 코드입니다.
+
 import os
 
 def delete_target_class_files(input_directory, image_directory, target_class):
