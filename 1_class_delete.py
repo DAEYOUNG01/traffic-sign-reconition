@@ -24,7 +24,7 @@ def delete_target_class_files(input_directory, image_directory, target_class):
                     os.remove(image_file_path)
                     print(f"삭제된 이미지 파일: {image_file_path}")
 
-# 사용 예시
+
 input_directory = r'C:\Users\USER\Desktop\데이터 셋\train\labels'
 image_directory = r'C:\Users\USER\Desktop\데이터 셋\train\images'
 target_class = 1
