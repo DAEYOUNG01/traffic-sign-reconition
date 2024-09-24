@@ -42,7 +42,8 @@
 정밀함을 달성하기 위해, 자동차는 도로 표시를 이해하고 적절한 결정을 내려야 함.
 
 이 기술의 중요성을 분석하면서 교통 표지판 분류 프로젝트를 시도하였음.
-(Object_Detection)
+(Object_Detection을 활용한 프로젝트)
+
 ![image](https://github.com/dbeodud147/traffic-sign-reconition/assets/163965664/0642fd32-78f5-4941-963b-b24a9bdd5718)
 
 ---
